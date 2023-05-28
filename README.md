@@ -15,7 +15,7 @@ The dashboard provides visualization of, and dynamic statistics for, the "Summar
 
 ### The Map
 
-![AboutApp_01_Map](./EOIA_01_Map.png)
+![AboutApp_01_Map](./EOIA_01_Dashboard.png)
 
 The map displays ecological observation data as well as conservation property data. The legend below describes the sybmology of the data and can be accessed on the map itself by clicking the middle "list/legend" button in the top right of the map area.
 
@@ -32,7 +32,7 @@ The Dashboard provides dynamic statistics based on the information currently vis
 - Conservation Property Area: the sum of the property areas visible on the map frame, in hectares (not including the surrounding buffer area).
 - BC Red List Species: list of BC Red List Species observed on the map frame.
 
-![AboutApp_04_Stats](./EOIA_04_Stats.png)
+![AboutApp_04_Stats](./EOIA_04_Statistics.png)
 
 ### Tables
 Two tables are provided at the bottom of the dashboard.
