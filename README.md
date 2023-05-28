@@ -1,2 +1,2 @@
-# NTBC_EOIA
+# NTBC Ecological Observation Inventory Analysis
 BCIT Student Project
