@@ -76,5 +76,6 @@ Below is a table detailing the datasets included in the EOIA.
 
 ## Disclaimer
 - The analysis was conducted using publicly available observation data and therefore is subject to the bias of data availability. The lack of observation data does not necessarily prove that a species has not or does not preside in a certain location or area.
+- Note that data from "Masked" sources may not contain species information details (particularly for 'S11_CDC_EO_M').
 - Due to the way the analysis was conducted, there may be multiple points representing a single observation event. This is due to polygon observation data intersecting with the buffer and property areas separately; therefore, when the polygons are converted to points, two (or more) points are created but have identical sources and observation IDs. The observation data is dissolved by Source, ID, and Property Number to account for this duplication, so the resulting multi-point feature may consist of two (or more) points while only representing a single unique observation event.
 - This dashboard is not to be used as an analysis tool, please contact the author and/or NTBC regarding any inquiries.
