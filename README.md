@@ -53,7 +53,7 @@ The Dashboard provides dynamic statistics based on the information currently vis
 
 
 ## Links
-- <a href="https://bcitgis.maps.arcgis.com/apps/dashboards/e792f191456a4ec2b55feecd8b672fde">NTBC Ecological Inventory Dashboard</a>
+- <a href="https://experience.arcgis.com/experience/9f5e1b7057da4f939e020e861d85e788">NTBC Ecological Inventory Dashboard</a>
 - <a href="https://www.naturetrust.bc.ca/">Nature Trust of British Columbia</a>
 - <a href="https://www.bcit.ca/programs/geographic-information-systems/">BCIT GIS</a>
 - <a href="https://www.linkedin.com/in/michael-wong-526098214/">Michael Wong - LinkedIn</a>
