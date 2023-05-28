@@ -39,8 +39,6 @@ Two tables are provided at the bottom of the dashboard.
 
 ![AboutApp_05_Tables](./EOIA_05_Tables.png)
 
-Table Descriptions: 
-
 List of NTBC Conservation Properties: this is a static table of all the conservation properties included in the analysis. The "Total Obs. Events" column represents the number of observation events found within a conservation property as well as its surrounding buffer area. The "Prop. Area (ha)" column represents the area of the conservation property (not including the surrounding buffer area).
 
 Ecological Observation Details: this is a dynamic table of all the summaries of ecological observations by property number and scientific name. The table only displays ecological observations currently visible on the map frame. Explanations of certain fields are provided below:
