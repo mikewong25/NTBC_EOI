@@ -49,9 +49,11 @@ The Dashboard provides dynamic statistics based on the information currently vis
 | SPI Incidental Observations - Non-Secured | <a href="https://catalogue.data.gov.bc.ca/dataset/wildlife-species-inventory-incidental-observations-non-secured">BC Data Catalogue</a> | Point |
 | SPI Telemetry Observations - Non-Sensitive | <a href="https://catalogue.data.gov.bc.ca/dataset/wildlife-species-inventory-telemetry-observations-non-sensitive">BC Data Catalogue</a> | Point |
 | CDC Element Occurrences: Species and Ecosystems at Risk - Publicly Available Occurrences | <a href="https://catalogue.data.gov.bc.ca/dataset/species-and-ecosystems-at-risk-publicly-available-occurrences-cdc">BC Data Catalogue</a> | Polygon |
-| CDC Element Occurrences: Species and Ecosystems at Risk (Masked Secured) | <a href="(https://catalogue.data.gov.bc.ca/dataset/species-and-ecosystems-at-risk-masked-secured-publicly-available-occurrences-cdc">BC Data Catalogue</a> | Polygon |
+| CDC Element Occurrences: Species and Ecosystems at Risk (Masked Secured) | <a href="https://catalogue.data.gov.bc.ca/dataset/species-and-ecosystems-at-risk-masked-secured-publicly-available-occurrences-cdc">BC Data Catalogue</a> | Polygon |
 
 
 ## Links
-
+<a href="https://www.naturetrust.bc.ca/">Nature Trust of British Columbia</a>
+<a href="https://www.bcit.ca/programs/geographic-information-systems/">BCIT GIS</a>
+<a href="https://www.linkedin.com/in/michael-wong-526098214/">Michael Wong - LinkedIn</a>
 
