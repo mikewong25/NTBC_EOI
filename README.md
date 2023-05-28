@@ -12,7 +12,7 @@ With input from NTBC staff, the student will compile a spatial database of ecolo
 The dashboard provides visualization of, and dynamic statistics for, the "Summary by Property Acquisition Number", which is one of the summary outputs created by the EOIA. The summary provides an inventory of ecological observations located on, or within 250m of, NTBC conservation properties. The dashboard has been designed to highlight observations of species that are on BC's Red List. Species on the Red List include any species or ecosystem that is at risk of being lost (extirpated, endangered or threatened).
 
 ## About the App
-The app is designed to be used on a desktop computer with regular, or larger, sized monitors.
+The app is designed to be used on a desktop computer with regular sized monitors.
 
 ### The Map
 
