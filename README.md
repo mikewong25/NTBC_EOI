@@ -11,9 +11,10 @@ The dashboard provides visualization of, and dynamic statistics for, the "Summar
 
 ## About the App
 
+### The Map
+
 ![AboutApp_01_Map](./EOIA_01_Map.png)
 
-### The Map
 The map displays ecological observation data as well as conservation property data. The legend below describes the sybmology of the data and can be accessed on the map itself by clicking the middle "list/legend" button in the top right of the map area.
 
 ![AboutApp_02_Legend](./EOIA_02_Legend.png)
