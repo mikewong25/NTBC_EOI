@@ -54,7 +54,7 @@ Ecological Observation Details: this is a dynamic table of all the summaries of 
 ## Data Dictionary
 
 Below is a table detailing the datasets included in the EOIA.
-| <b>Dataset (naming code)</b> | <b>Data Source</b> | <b>Data Type</b>
+| <b>Dataset (Naming Code)</b> | <b>Source</b> | <b>Data Type</b>
 | --- | --- | --- |
 | NTBC Properties | NTBC | Polygon |
 | BC Species list | <a href="https://a100.gov.bc.ca/pub/eswp/search.do?method=reset">BC Species & Ecosystems Explorer</a> | Table |
