@@ -35,6 +35,23 @@ The Dashboard provides dynamic statistics based on the information currently vis
 
 ![AboutApp_05_Tables](./EOIA_05_Tables.png)
 
+## Data Dictionary
+| <b>Dataset</b> | <b>Data Source</b> | <b>Data Type</b>
+| --- | --- | --- |
+| NTBC Properties | NTBC | Polygon |
+| BC Species list | <a href="https://a100.gov.bc.ca/pub/eswp/search.do?method=reset">BC Species & Ecosystems Explorer</a> | Table |
+| eBird Basic Dataset (S02_EBD) | <a href="https://support.ebird.org/en/support/solutions/articles/48000838205-download-ebird-data">eBird</a> | Point |
+| iNaturalist Observations | <a href="https://inaturalist.ca/home">iNaturalist</a> | Point |
+| SPI Masked Survey Observations - Publicly Available | <a href="https://catalogue.data.gov.bc.ca/dataset/wildlife-species-inventory-masked-survey-observations-publicly-available">BC Data Catalogue</a> | Polygon |
+| SPI Survey Observations - Non-Sensitive | <a href="https://catalogue.data.gov.bc.ca/dataset/wildlife-species-inventory-survey-observations-non-sensitive">BC Data Catalogue</a> | Point |
+| SPI Masked Feature Observations - Publicly Available | <a href="https://catalogue.data.gov.bc.ca/dataset/wildlife-species-inventory-masked-feature-observations-publicly-available">BC Data Catalogue</a> | Polygon |
+| SPI Feature Observations - Non-Sensitive (Wildlife Habitat Features - FRPA) | <a href="https://catalogue.data.gov.bc.ca/dataset/wildlife-habitat-features-frpa">BC Data Catalogue</a> | Point |
+| SPI Incidental Observations - Non-Secured | <a href="https://catalogue.data.gov.bc.ca/dataset/wildlife-species-inventory-incidental-observations-non-secured">BC Data Catalogue</a> | Point |
+| SPI Telemetry Observations - Non-Sensitive | <a href="https://catalogue.data.gov.bc.ca/dataset/wildlife-species-inventory-telemetry-observations-non-sensitive">BC Data Catalogue</a> | Point |
+| CDC Element Occurrences: Species and Ecosystems at Risk - Publicly Available Occurrences | <a href="https://catalogue.data.gov.bc.ca/dataset/species-and-ecosystems-at-risk-publicly-available-occurrences-cdc">BC Data Catalogue</a> | Polygon |
+| CDC Element Occurrences: Species and Ecosystems at Risk (Masked Secured) | <a href="(https://catalogue.data.gov.bc.ca/dataset/species-and-ecosystems-at-risk-masked-secured-publicly-available-occurrences-cdc">BC Data Catalogue</a> | Polygon |
+
+
 ## Links
 
 
