@@ -1,7 +1,7 @@
 # NTBC Ecological Observation Inventory Dashboard
 
 ## Introduction
-As part of the BCIT GIS Advanced Diploma program I completed a project for the Nature Trust of BC (NTBC). The product I created for NTBC is called the Ecological Observation Inventory Analysis (EOIA) and it is a colletion of scripts that compile and analyze ecological observation data. The main script is a Python toolbox written using ArcPy and designed to work within ArcGIS Pro.
+As part of the BCIT GIS Advanced Diploma program I completed a project for the Nature Trust of BC (NTBC). The product I created for NTBC is called the Ecological Observation Inventory Analysis (EOIA) and it is a colletion of scripts that compile and analyze ecological observation data. The main script is a Python toolbox written using ArcPy and designed to work within ArcGIS Pro 2.9 or higher.
 
 The project involved gathering ecological occurrence data from publicly available sources and completing analysis on the data to create summary tables and statistics of ecological occurrence data for each NTBC conservation property. The summary tables and statistics are meant to assist and inform conservation planning at NTBC. To generate the final project ouputs, over 28 million point and polygon ecological observation features were processed. The NTBC Ecological Observation Inventory Dashboard showcases a portion of the final outputs produced from the project. 
 
