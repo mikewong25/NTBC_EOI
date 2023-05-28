@@ -41,11 +41,13 @@ Table Descriptions:
 
 List of NTBC Conservation Properties: this is a static table of all the conservation properties included in the analysis. The "Total Obs. Events" column represents the number of observation events found within a conservation property as well as its surrounding buffer area. The "Prop. Area (ha)" column represents the area of the conservation property (not including the surrounding buffer area).
 
-Ecological Observation Details: this is a dynamic table of all the summaries of ecological observations by property number and scientific name. The table only displays ecological observations currently visible in the map frame. Explanations of certain fields are provided below:
+Ecological Observation Details: this is a dynamic table of all the summaries of ecological observations by property number and scientific name. The table only displays ecological observations currently visible on the map frame. Explanations of certain fields are provided below:
 - "Obs.": Count of observation events contributing to the entry
 - "BC List": the BC List status of the species
 - "Obs. Year Min" and "Obs Year Max": repsectively provide the oldest and most recent observation years of the species within the property/buffer
-- 
+- "Activity Count": a count of observation events that contain "Activity" data
+- "Species Activity": a list of "Activity" values for the species record
+- "Data Sources": a list of sources that contributed to the species record, see the data dictionary below for the sources and their naming codes
 
 ## Data Dictionary
 | <b>Dataset</b> | <b>Data Source</b> | <b>Data Type</b>
