@@ -56,7 +56,7 @@ Ecological Observation Details: this is a dynamic table of all the summaries of 
 | --- | --- | --- |
 | NTBC Properties | NTBC | Polygon |
 | BC Species list | <a href="https://a100.gov.bc.ca/pub/eswp/search.do?method=reset">BC Species & Ecosystems Explorer</a> | Table |
-| eBird Basic Dataset (S02_EBD) | <a href="https://support.ebird.org/en/support/solutions/articles/48000838205-download-ebird-data">eBird</a> | Point |
+| eBird Basic Dataset (S02_EBD) | <a href="https://ebird.org/canada/home">eBird</a> | Point |
 | iNaturalist Observations (S03_iNat) | <a href="https://inaturalist.ca/home">iNaturalist</a> | Point |
 | SPI Masked Survey Observations - Publicly Available (S04_SPI_SO_M) | <a href="https://catalogue.data.gov.bc.ca/dataset/wildlife-species-inventory-masked-survey-observations-publicly-available">BC Data Catalogue</a> | Polygon |
 | SPI Survey Observations - Non-Sensitive (S05_SPI_SO_NSn) | <a href="https://catalogue.data.gov.bc.ca/dataset/wildlife-species-inventory-survey-observations-non-sensitive">BC Data Catalogue</a> | Point |
