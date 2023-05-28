@@ -11,17 +11,23 @@ The dashboard provides visualization of, and dynamic statistics for, the "Summar
 
 ## About the App
 
-### The Map
-
-
 ![AboutApp_01_Map](./EOIA_01_Map.png)
+
+### The Map
+The map displays ecological observation data as well as conservation property data. The legend below describes the sybmology of the data and can be accessed on the map itself by clicking the middle "list/legend" button in the top right of the map area.
 
 ![AboutApp_02_Legend](./EOIA_02_Legend.png)
 
+The default view of the map is set to an overview of BC. The map also has preset bookmarks for easy navigation around BC, which can be accessed via the "ribbon/bookmark" button in the top right of the map area.
+
 ![AboutApp_03_Bookmarks](./EOIA_03_Bookmarks.png)
 
-
 ### Dynamic Statistics
+The Dashboard provides dynamic statistics based on the information currently visible in the map frame. Statistics are provided for the following data:
+- Observation Event Count: count of observation events visible on the map frame for "All Species" and for "Red List Species"
+- Unique Species Count: count of unique species observed on the map frame for "All Species" and for "Red List Species"
+- Conservation Area: the sum of the property and buffer areas visible on the map frame, in hectares.
+- BC Red List Species: list of BC Red List Species observed on the map frame.
 
 ![AboutApp_04_Stats](./EOIA_04_Stats.png)
 
