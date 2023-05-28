@@ -3,7 +3,7 @@
 ## Introduction
 As part of the BCIT GIS Advanced Diploma program I completed a project for the Nature Trust of BC (NTBC). The product I created for NTBC is called the Ecological Observation Inventory Analysis (EOIA) and it is a collection of scripts that compile and analyze ecological observation data. The main script is a Python toolbox written using ArcPy and designed to work within ArcGIS Pro 2.9 or higher.
 
-The project involved gathering ecological occurrence data from publicly available sources and completing analysis on the data to create summary tables and statistics of ecological occurrence data for each NTBC conservation property. The summary tables and statistics are meant to assist and inform conservation planning at NTBC. To generate the final project ouputs, over 28 million point and polygon ecological observation features were processed. The NTBC Ecological Observation Inventory Dashboard showcases a portion of the final outputs produced from the project. 
+The project involved gathering ecological occurrence data from publicly available sources and completing analysis on the data to create summary tables and statistics of ecological occurrence data for each NTBC conservation property. The summary tables and statistics are meant to assist and inform conservation planning at NTBC. To generate the final project outputs, over 28 million point and polygon ecological observation features were processed. The NTBC Ecological Observation Inventory Dashboard showcases a portion of the final outputs produced from the project. 
 
 ### Project Statement
 With input from NTBC staff, the student will compile a spatial database of ecological occurrence data available at a provincial scale. The student will also develop processes to produce different types of summary statistic outputs for use by NTBC staff in conservation planning. It is important to ensure that the methods are well documented and repeatable, ideally confined to a model or script created using ArcGIS Model Builder or ArcPy.
@@ -18,11 +18,11 @@ The app is designed to be used on a desktop computer with regular sized monitors
 
 ![AboutApp_01_Map](./EOIA_01_Dashboard.png)
 
-The map displays ecological observation data as well as conservation property data. The legend below describes the sybmology of the data and can be accessed on the map itself by clicking the middle "list/legend" button in the top right of the map area.
+The map displays ecological observation data as well as conservation property data. The legend below describes the symbology of the data and can be accessed on the map itself by clicking the middle "list/legend" button in the top right of the map area.
 
 ![AboutApp_02_Legend](./EOIA_02_Legend.png)
 
-The default view of the map is set to an overview of BC. The map also has preset bookmarks for convenient navigation to certain areas within BC. Bookmarks can be accessed via the "ribbon/bookmark" button in the top right of the map area.
+The default view of the map is set to an overview of BC. The map also has bookmarks for convenient navigation to certain areas within BC. Bookmarks can be accessed via the "ribbon/bookmark" button in the top right of the map area.
 
 ![AboutApp_03_Bookmarks](./EOIA_03_Bookmarks.png)
 
@@ -45,7 +45,7 @@ List of NTBC Conservation Properties: this is a static table of all the conserva
 Ecological Observation Details: this is a dynamic table of ecological observations summarized by property number and scientific name. The table displays ecological observations currently visible on the map frame. Explanations of certain fields are provided below:
 - "Obs.": Count of observation events contributing to the species record
 - "BC List": the BC List status of the species
-- "Obs. Year Min" and "Obs Year Max": repsectively provide the oldest and most recent observation years for the species record
+- "Obs. Year Min" and "Obs Year Max": respectively provide the oldest and most recent observation years for the species record
 - "Activity Count": a count of observation events in the species record that contain "Activity" data
 - "Species Activity": a list of "Activity" values for the species record
 - "Data Sources": a list of sources that contributed to the species record, see the data dictionary below for the sources and their naming codes
