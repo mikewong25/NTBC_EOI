@@ -1,2 +1,2 @@
-# NTBC Ecological Observation Inventory Analysis
+# NTBC Ecological Observation Inventory
 BCIT Student Project
